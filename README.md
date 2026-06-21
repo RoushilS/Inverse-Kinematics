@@ -245,7 +245,7 @@ Potential extensions include:
 
 ## Awards
 
-🏅 Advanced to the Oregon State Science Fair (2025)
+Advanced to the Oregon State Science Fair (2025)
 
 ---
 
